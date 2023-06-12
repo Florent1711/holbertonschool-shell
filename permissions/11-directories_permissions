@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d -execdir chmod 222
+find ./ -type d -execdir chmod 755
