@@ -19,3 +19,5 @@
 9-divide_and_rule - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 POWER and DIVIDE are environment variables.
 
+10-love_exponent_breath - Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+
