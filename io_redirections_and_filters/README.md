@@ -14,3 +14,5 @@
 The file iacta will be in the working directory
     • You’re not allowed to use sed
 
+7-file - Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
