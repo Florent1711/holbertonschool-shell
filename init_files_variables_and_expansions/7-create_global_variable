@@ -1,2 +1,2 @@
 #!/bin/bash
-setenv BEST=School
+set-Variable BEST=School
