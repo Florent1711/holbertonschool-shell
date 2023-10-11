@@ -1,2 +1,2 @@
 #!/bin/bash
-set-Variable BEST=School
+export BEST="School"
