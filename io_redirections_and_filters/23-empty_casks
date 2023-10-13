@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | rev | cut -d " " -f 1 | rev | sort -u
+ls -rla | find . -size 0 | rev | cut -d " " -f 1 | sort -u | rev
