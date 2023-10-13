@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | find . * -empty -printf "\n" | sort -u
+ls -a | find . * -empty -printf "%f%d\n" | sort -u
