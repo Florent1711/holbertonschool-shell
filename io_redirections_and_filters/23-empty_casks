@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | rev | cut -d " " -f 1 | rev | uniq
+ls -la | rev | cut -d " " -f 1 | rev | sort -u
